@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wGQrdvmHO1gTGCXaDYWpR4sdQmPNq6ZPTh8W+Wxah/w=",
+  "Source": "SAPConnect",
+  "BasePath": "_content/SAPConnect",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
